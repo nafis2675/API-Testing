@@ -1,0 +1,1 @@
+newman run API_Projcet.postman_collection.json -e API_Projcet.postman_environment.json -r cli,html
